@@ -1,0 +1,19 @@
+{
+  "name": "context-utils",
+  "version": "1.0.0",
+  "description": "Context utils for browser and node.js",
+  "main": "lib/context.js",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/SonoIo/context-utils.git"
+  },
+  "keywords": [
+    "utils"
+  ],
+  "author": "Inside a bit",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/SonoIo/context-utils/issues"
+  },
+  "homepage": "https://github.com/SonoIo/context-utils"
+}
