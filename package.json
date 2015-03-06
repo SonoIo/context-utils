@@ -1,5 +1,5 @@
 {
-  "name": "context-utils",
+  "name": "context",
   "version": "1.0.1",
   "description": "Context utils for browser and node.js",
   "main": "lib/context.js",
