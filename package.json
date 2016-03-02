@@ -8,7 +8,16 @@
     "url": "https://github.com/SonoIo/context-utils.git"
   },
   "keywords": [
+    "context",
     "utils"
+  ],
+  "contributors": [
+    { "name" : "Matteo Baggio", 
+      "email" : "matteo.baggio@gmail.com"
+    },
+    { "name" : "Michele Belluco", 
+      "email" : "michele@belluco.info"
+    }
   ],
   "license": "MIT",
   "bugs": {
